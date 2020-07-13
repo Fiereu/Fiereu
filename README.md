@@ -1,4 +1,4 @@
-### Nice to meet you here :D 
+### Nice to see you here :D 
 
 I don't publish much here but if I publish something I hope it can help you.
 
