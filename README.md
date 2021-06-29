@@ -1,7 +1,7 @@
 ### Nice to see you here :D
 ## I'm Fiereu
 + German 
-+ 17 y/o 
++ 18 y/o 
 + Windows developer
 
 # Languages: 
