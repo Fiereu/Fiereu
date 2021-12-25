@@ -13,4 +13,4 @@
 
 [![Visits: ](http://hits.dwyl.com/Fiereu/Fiereu.svg)](http://hits.dwyl.com/Fiereu/Fiereu)
 
-![My Stats: ](https://github-readme-stats.vercel.app/api?username=Fiereu&show_icons=true&hide=["issues"])
+![My Stats: ](https://github-readme-stats.vercel.app/api?username=Fiereu&show_icons=true&hide=["issues"]&theme=dark)
